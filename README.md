@@ -17,6 +17,7 @@
 `Project Manager` to switch between windows. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 
 ### Settings
+```
 {
   "workbench.colorTheme": "Hub Contrast (rainglow)",
   "workbench.iconTheme": "material-icon-theme",
@@ -78,5 +79,4 @@
   "editor.matchBrackets": true,
   "workbench.editor.enablePreviewFromQuickOpen": true
 }
-
 ```
