@@ -26,6 +26,11 @@
   "workbench.editor.tabSizing": "shrink",
   "workbench.activityBar.visible": true,
   "workbench.startupEditor": "newUntitledFile",
+  "window.openFilesInNewWindow": "off",
+  "window.zoomLevel": 0,
+  "window.closeWhenEmpty": true,
+  "workbench.editor.enablePreview": true,
+  "workbench.editor.enablePreviewFromQuickOpen": true,
   "workbench.colorCustomizations": {
     "statusBar.background": "#079ae4",
     "statusBar.noFolderBackground": "#079ae4",
@@ -51,32 +56,27 @@
   "editor.colorDecorators": true,
   "editor.cursorStyle": "line",
   "editor.accessibilitySupport": "off",
+  "editor.showFoldingControls": "always",
+  "editor.matchBrackets": true,
+  "editor.scrollBeyondLastLine": true,
+  "editor.useTabStops": true,
+  "editor.formatOnPaste": false,
+  "editor.autoIndent": true,
+  "editor.find.seedSearchStringFromSelection": true,
+  "eslint.enable": true,
+  "eslint.autoFixOnSave": true,
+  "eslint.workingDirectories": ["./client", "./server"],
   "emmet.syntaxProfiles": {
     "javascript": "jsx"
   },
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
-  "eslint.enable": true,
-  "eslint.autoFixOnSave": true,
-  "eslint.workingDirectories": ["./client", "./server"],
   "extensions.ignoreRecommendations": false,
   "path-intellisense.extensionOnImport": true,
-  "window.zoomLevel": 0,
+  "files.insertFinalNewline": true,
   "search.location": "panel",
   "todohighlight.isEnable": true,
-  "git.ignoreMissingGitWarning": true,
-  "editor.find.seedSearchStringFromSelection": true,
-  "window.openFilesInNewWindow": "off",
-  "workbench.editor.enablePreview": true,
-  "editor.scrollBeyondLastLine": true,
-  "editor.useTabStops": true,
-  "editor.formatOnPaste": false,
-  "editor.autoIndent": true,
-  "window.closeWhenEmpty": true,
-  "files.insertFinalNewline": true,
-  "editor.showFoldingControls": "always",
-  "editor.matchBrackets": true,
-  "workbench.editor.enablePreviewFromQuickOpen": true
+  "git.ignoreMissingGitWarning": true
 }
 ```
