@@ -26,9 +26,6 @@
   "workbench.editor.tabSizing": "shrink",
   "workbench.activityBar.visible": true,
   "workbench.startupEditor": "newUntitledFile",
-  "window.openFilesInNewWindow": "off",
-  "window.zoomLevel": 0,
-  "window.closeWhenEmpty": true,
   "workbench.editor.enablePreview": true,
   "workbench.editor.enablePreviewFromQuickOpen": true,
   "workbench.colorCustomizations": {
@@ -40,8 +37,9 @@
     "editorWarning.border": "#98c5e9",
     "editorError.border": "#98c5e9"
   },
-  "html.format.preserveNewLines": true,
-  "files.trimTrailingWhitespace": true,
+  "window.openFilesInNewWindow": "off",
+  "window.zoomLevel": 0,
+  "window.closeWhenEmpty": true,
   "editor.minimap.showSlider": "always",
   "editor.snippetSuggestions": "top",
   "editor.fontSize": 13,
@@ -74,7 +72,9 @@
   },
   "extensions.ignoreRecommendations": false,
   "path-intellisense.extensionOnImport": true,
+  "html.format.preserveNewLines": true,
   "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
   "search.location": "panel",
   "todohighlight.isEnable": true,
   "git.ignoreMissingGitWarning": true
